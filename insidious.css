@@ -1,0 +1,51 @@
+.header 
+{
+padding: 5px;
+  text-align: left;
+  background:black;
+  color:white;
+  font-size: 15px;
+  border:5px solid white;
+
+}
+.m2-body 
+{
+    margin:5vh 2.5vw 5vh 2.5vw;
+    text-align: center;
+}
+.m2-section 
+{
+    display: inline-block;
+    padding: 2.5vw;
+}
+.m2-section img 
+{
+    height: 40vh;
+    width: auto;
+    border:5px solid white;
+    
+}
+.m2sub-body 
+{
+    margin:5vh 2.5vw 5vh 2.5vw;
+    text-align: center;
+}
+.m2sub-section 
+{
+    display: inline-block;
+    padding: 2.5vw;
+}
+.m2sub-section img 
+{
+    height: 40vh;
+    width: auto;
+    border:5px solid white;
+    
+}
+
+#footer 
+{
+    background-color:#0e0d0d ;
+    color: white;
+    padding:1vh 0.5vw 1vh 0.5vw;
+} 
